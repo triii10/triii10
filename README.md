@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **virtualization, kubernetes, containerization, C++, Python**
 
-- 📫 How to reach me **[mailto:hi@trilok.dev](hi@trilok.dev)**
+- 📫 How to reach me **[hi@trilok.dev](mailto:hi@trilok.dev)**
 
 - 📄 Know about my experiences [https://www.trilok.dev](https://trilok.dev)
 
