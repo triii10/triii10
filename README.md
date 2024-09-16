@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[hi@trilok.dev](mailto:hi@trilok.dev)**
 
-- 📄 Know about my experiences [https://www.trilok.dev](https://trilok.dev)
+- 📄 Visit my portfolio @ [trilok.dev](https://trilok.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
