@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **virtualization, kubernetes, containerization, C++, Python**
 
-- 📫 How to reach me **binary.triii@gmail.com**
+- 📫 How to reach me **[mailto:hi@trilok.dev](hi@trilok.dev)**
 
-- 📄 Know about my experiences [https://triii10.github.io](https://triii10.github.io)
+- 📄 Know about my experiences [https://www.trilok.dev](https://trilok.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
